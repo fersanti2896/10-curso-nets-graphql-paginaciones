@@ -1,6 +1,12 @@
-# Anylist - Seed Data
+# Anylist - Paginaciones y Filtros
 
-Se continua con el `Backend` de Items, ahora se crea un proceso para llenar la base de datos con información cuando se cargue el proyecto.
+Se continua con el `Backend` de Items, ahra se realizan: 
+
+- Paginaciones. 
+- Búsquedas por nombre.
+- Creación de página y búsqueda de forma simultánea. 
+- Paginación y búsqueda por items dentro de usuarios. 
+- Aplicación de filtros a la hora de consultar items de los usuarios. 
 
 ### Pasos para iniciar API
 
